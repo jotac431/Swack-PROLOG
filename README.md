@@ -1,14 +1,3 @@
-# Avaliação Final
-## MIEIC-PLOG
-
-**Swack Grupo 5 turma.**
-João Basto do Rosário (up201806334) 
-Jorge Levi Perdigoto da Costa (up201706518)
-
-**Contribuição**
-João Basto do Rosário 65%
-Jorge Levi Perdigoto da Costa 35%
-
 ### Como executar o código:
 1. Abrir o programa SICStus (Versão testada : 4.6.0)
 2. Alterar a fonte do programa para MS Gothic (Ir a 'settings' -> 'font' -> selecionar 'MS Gothic')
